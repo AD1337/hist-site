@@ -6,4 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Historia Realis
 ---
+
+## Welcome
+
+Some intro text here. This appears above the post list on the home page.
