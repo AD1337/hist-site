@@ -49,6 +49,3 @@ plugins:
 remote_theme: jekyll/minima
 
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
