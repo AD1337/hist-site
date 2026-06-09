@@ -9,6 +9,6 @@ layout: home
 title: false
 ---
 
-## Welcome
+## Hello
 
 Some intro text here. This appears above the post list on the home page.
