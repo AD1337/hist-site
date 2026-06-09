@@ -1,7 +1,7 @@
-title: Hist Games yeah
-author: Hist Games
-url: "https://histgames.com"
-baseurl: ""
+title: 
+author: Author
+# url: "https://histgames.com"
+# baseurl: ""
 email: contact@histgames.com
 description: > # this means to ignore newlines until "twitter_username:"
   We make games for people who love history.
