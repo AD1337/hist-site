@@ -35,6 +35,13 @@ minima:
   date_format: "%b %-d, %Y"
   skin: dark
   hide_site_feed_link: true
+  social_links:
+  - title: Twitch
+    icon: twitch
+    url: "https://twitch.tv/lucasgmolina"
+  - title: Discord
+    icon: discord
+    url: "https://discord.gg/yourserver"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
