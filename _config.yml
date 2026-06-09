@@ -1,30 +1,11 @@
 title: Hist Games
-author: Hist Games
+author:
+  name: Hist Games
+  email: contact@histgames.com
 # url: "https://histgames.com"
 # baseurl: ""
-email: contact@histgames.com
 description: > # this means to ignore newlines until "twitter_username:"
   We make games for people who love history.
-
-# social links
-twitter_username: ad1337
-# github_username:  jekyll
-# rss: rss
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
-# linkedin_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-
-# Mastodon instances
-# mastodon:
-# - username: jekyll
-#   instance: example.com
-# - username: jekyll2
-#   instance: example.com
 
 
 show_excerpts: false # set to true to show excerpts on the homepage
