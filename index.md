@@ -21,9 +21,11 @@ Our mission is to make deep strategy games for people who love history.
 
    Paragraph attempt
 
+
 ### 2. Open to the community.
 
    Tab attempt
+
 
 ### 3. Great to each other.
 
