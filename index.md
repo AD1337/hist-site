@@ -17,30 +17,41 @@ Our mission is to make deep strategy games for people who love history.
 <hr>
 
 # Manifesto
-Manifesto goes here.
+Historical games can be both **fun** and **historically accurate**. Studios have traditionally believed that historical realism must be sacrificed in order to make fun games. We don't believe that. We believe, in fact, that making games more **historically authentic** also makes them **more fun**.
+
+
+**We are interested in systems**. For some reason, the people who love history the most also love strategy and simulation.
+
+**We want to empower you to tell your own story**.
+
+<hr>
+
+# The Team
+Lucas Molina is the founder of Hist and currently the only team member. That's me. I'm an indie game developer and generalist. I taught myself
+I'm not in a hurry to expand the team, and it might never happen. 
 <hr>
 
 # Core Values
 
-## 1. Player experience is our first, second, and third priority.
+## 1. Player experience is our first, second, and third priority
 
    Paragraph attempt
 
 
-## 2. Open to the community.
+## 2. Open to the community
 
    Tab attempt
 
 
-## 3. Great to each other.
+## 3. Great to each other
 
    We strive to treat each other – and ourselves – excellently. This means clear and open communication, respect, appreciation and being willing to listen to and understand each other.
 
-## 4. Constant improvement.
+## 4. Constant improvement
 
    We're always seeking feedback and trying to improve. 
 
-## 5. Keep up the **PPACE**.
+## 5. Keep up the **PPACE**
 
    We have our own "ppace". PPACE stands for: Playfulness, Passion, Aptitude, Courage and Empathy. These are the qualities we look to cultivate within ourselves.
 <hr>
