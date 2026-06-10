@@ -60,7 +60,7 @@ Still, I'm always happy to meet like-minded people. If you believe you have [wha
    We have our own "ppace". PPACE stands for: Playfulness, Passion, Aptitude, Courage and Empathy. These are the qualities we look to cultivate within ourselves.
 <hr>
 
-## All Values
+## More about us
 - Culture
 - Game Design Principles
 - Production Guidelines
