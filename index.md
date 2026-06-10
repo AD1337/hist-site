@@ -14,3 +14,7 @@ layout: home
 ## Hello
 
 Some intro text here. This appears above the post list on the home page.
+
+- [Investors]({% link investors.md %})
+- [Media]({% link media.md %})
+- [Work with us]({% link hiring.md %})
