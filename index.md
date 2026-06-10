@@ -27,7 +27,8 @@ Historical games can be both **fun** and **historically accurate**. Studios have
 <hr>
 
 # The Team
-Lucas Molina is the founder of Hist and currently the only team member. That's me. I'm an indie game developer and generalist. I taught myself
+[Lucas Molina](https://lucasmolinagames.com/) is the founder of Hist and currently the only team member. That's me, so I'll switch to "I" because it's awkward to talk in third person. I'm an indie game developer and generalist. I taught myself
+
 I'm not in a hurry to expand the team, and it might never happen. 
 <hr>
 
