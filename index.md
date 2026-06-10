@@ -17,13 +17,17 @@ Our mission is to make deep strategy games for people who love history.
 <hr>
 
 # Manifesto
-**Games can be both fun and historically accurate**. Studios have traditionally believed that historical realism must be sacrificed in order to make fun games. We don't believe that. We believe, in fact, that making games more historically authentic also makes them more fun.
+## Games can be both fun and historically accurate
+ Studios have traditionally believed that historical realism must be sacrificed in order to make fun games. We don't believe that. We believe, in fact, that making games more historically authentic also makes them more fun.
 
-**We love systems**.  strategy, simulation and deep systems.
+## We love systems
+ Strategy, simulation and deep systems.
 
-**We empower you to tell your own story**.
+## We empower you to tell your own story**
+ Paragraph.
 
-**Generous DLC policy**. Look, we haven't even released a Hist game yet, much less DLC (*downloadable content*), so we don't know if we will ever release DLC. But if we do, we don't want you to feel like you *need* DLC in order to have a complete experience. Newcomers shouldn't get a *skeleton* of a game. So the vast majority of features and content will come with free updates, and buying DLC will be an *optional* way to support the devs. You should get DLC because you want to support future development and show your appreciation, not because of a paywall that blocks you out of mechanics and content.
+## Generous DLC policy
+ Look, we haven't even released a Hist game yet, much less DLC (*downloadable content*), so we don't know if we will ever release DLC. But if we do, we don't want you to feel like you *need* DLC in order to have a complete experience. Newcomers shouldn't get a *skeleton* of a game. So the vast majority of features and content will come with free updates, and buying DLC will be an *optional* way to support the devs. You should get DLC because you want to support future development and show your appreciation, not because of a paywall that blocks you out of mechanics and content.
 
 ## We want to make the first grand strategy game with Overwhelmingly Positive reviews on Steam
  Well, depending on what you consider a GSG, this has already been done. Regardless, that is our goal. We don't know if we'll make it with our first game, but we'll try our best! The requirements are: at least 500 reviews and a 95%+ positive rating. So, if you want to help us reach this goal, do leave a positive review once the game is out! We'll do our best to earn your positive review by making a great game.
