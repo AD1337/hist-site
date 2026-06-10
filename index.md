@@ -17,19 +17,20 @@ Our mission is to make deep strategy games for people who love history.
 <hr>
 
 # Manifesto
-Historical games can be both **fun** and **historically accurate**. Studios have traditionally believed that historical realism must be sacrificed in order to make fun games. We don't believe that. We believe, in fact, that making games more **historically authentic** also makes them **more fun**.
+**Historical games can be both fun and historically accurate**. Studios have traditionally believed that historical realism must be sacrificed in order to make fun games. We don't believe that. We believe, in fact, that making games more *historically authentic* also makes them *more fun*.
 
+**We are interested in systems**. For some reason, the people who love history the most also love strategy, simulation and deep systems.
 
-**We are interested in systems**. For some reason, the people who love history the most also love strategy and simulation.
-
-**We want to empower you to tell your own story**.
+**We empower you to tell your own story**.
 
 <hr>
 
 # The Team
-[Lucas Molina](https://lucasmolinagames.com/) is the founder of Hist and currently the only team member. That's me, so I'll switch to "I" because it's awkward to talk in third person. I'm an indie game developer and generalist. I taught myself
+[Lucas Molina](https://lucasmolinagames.com/) is the founder of Hist and currently its only team member. That's me, so I'll switch to "I" because it's awkward to talk in third person. I'm an indie game developer and generalist. I taught myself art, code, music and everything else related to game development. I studied History in university and also got a master's degree in History. I don't know why I love history and games so much, but I do. It's just who I am.
 
-I'm not in a hurry to expand the team, and it might never happen. 
+
+
+I'm not in a hurry to expand the team, and it might never happen. Our mission and values are far more important than studio size and number of sales. Sure, we want to serve our players to the best of our ability, but we will not sacrifice on our mission or our values.
 <hr>
 
 # Core Values
@@ -58,7 +59,7 @@ I'm not in a hurry to expand the team, and it might never happen.
 <hr>
 
 ## All Values
-- Culture (Full Document)
+- Culture
 - Game Design Principles
 - Production Guidelines
 - Personnel Characteristics
