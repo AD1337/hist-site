@@ -11,10 +11,23 @@ layout: home
 #   enabled: false
 ---
 
-## Hello
+## We are Hist
 
 Some intro text here. This appears above the post list on the home page.
 
+
+## Our Values
+
+1. Player experience is our first, second, and third priority.
+
+   Paragraph attempt
+
+2. Open to the community.
+	Tab attempt
+3. Great to each other.
+   Three spaces attempt
+4. Constant improvement.
+5. **PPACE**: Playfulness, Passion, Aptitude, Courage, Empathy.
 
 ## Who are you?
 - [Investors & Publishers]({% link investor.md %})
