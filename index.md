@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: false
+# title: false
 # titles_from_headings:
 #   enabled: false
 ---
