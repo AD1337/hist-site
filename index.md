@@ -23,7 +23,7 @@ Our mission is to make deep strategy games for people who love history.
 ## We love systems
  Strategy, simulation and deep systems.
 
-## We empower you to tell your own story**
+## We empower you to tell your own story
  Paragraph.
 
 ## Generous DLC policy
