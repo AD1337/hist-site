@@ -17,9 +17,9 @@ Our mission is to make deep strategy games for people who love history.
 <hr>
 
 # Manifesto
-**Historical games can be both fun and historically accurate**. Studios have traditionally believed that historical realism must be sacrificed in order to make fun games. We don't believe that. We believe, in fact, that making games more historically authentic also makes them more fun.
+**Games can be both fun and historically accurate**. Studios have traditionally believed that historical realism must be sacrificed in order to make fun games. We don't believe that. We believe, in fact, that making games more historically authentic also makes them more fun.
 
-**We are interested in systems**. For some reason, the people who love history the most also love strategy, simulation and deep systems.
+**We love systems**.  strategy, simulation and deep systems.
 
 **We empower you to tell your own story**.
 
