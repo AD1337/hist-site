@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Investors
-permalink: /investors/
+title: Work With Us
+permalink: /hiring/
 ---
 
 # Welcome.

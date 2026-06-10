@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Investors
-permalink: /investors/
+title: Investors & Publishers
+permalink: /investor/
 ---
 
 # Welcome.
