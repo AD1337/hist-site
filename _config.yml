@@ -2,13 +2,13 @@ title: Hist
 author:
   name: Hist
   email: contact@hist.games
-# url: "https://histgames.com"
-# baseurl: ""
 description: > # this means to ignore newlines until "twitter_username:"
   We make deep strategy games for people who love history.
 
-url: "https://histgames.com"
-baseurl: ""
+# url: "https://histgames.com"
+# baseurl: ""
+url: "https://ad1337.github.io"
+baseurl: "/hist-site"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
