@@ -65,7 +65,7 @@ I'm not in a hurry to expand the team, and it might never happen. Our mission an
 
 ## **5. Keep up the PPACE**
 
-   We have our own "ppace". PPACE stands for: Playfulness, Passion, Aptitude, Courage and Empathy. These are the qualities we look to cultivate within ourselves.
+   We have our own PPACE. The acronym stands for: Playfulness, Passion, Aptitude, Courage and Empathy. These are the qualities we look to cultivate within ourselves.
 <hr>
 
 ## More about us
