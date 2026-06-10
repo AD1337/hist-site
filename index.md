@@ -11,9 +11,9 @@ layout: home
 #   enabled: false
 ---
 
-## We are Hist
+# We are Hist
 
-Some intro text here. This appears above the post list on the home page.
+Our mission is to make deep strategy games for people who love history.
 
 
 ## Our Values
@@ -23,11 +23,21 @@ Some intro text here. This appears above the post list on the home page.
    Paragraph attempt
 
 ### 2. Open to the community.
-	Tab attempt
-3. Great to each other.
-   Three spaces attempt
-4. Constant improvement.
-5. **PPACE**: Playfulness, Passion, Aptitude, Courage, Empathy.
+
+   Tab attempt
+
+### 3. Great to each other.
+
+   We strive to treat each other – and ourselves – excellently. This means clear and open communication, respect, appreciation and being willing to listen to and understand each other.
+
+### 4. Constant improvement.
+
+   We're always seeking feedback and trying to improve. 
+
+### 5. Keep up the **PPACE**.
+
+   We have our own "ppace". PPACE stands for: Playfulness, Passion, Aptitude, Courage and Empathy. These are the qualities we look to cultivate within ourselves.
+
 
 ## Who are you?
 - [Investors & Publishers]({% link investor.md %})
