@@ -19,6 +19,6 @@ Some intro text here. This appears above the post list on the home page.
 ## Who are you?
 These pages might be relevant to you, depending on who you are:
 - [Investors & Publishers]({% link investor.md %})
-- [Media]({% link media.md %})
+- [Media]({% link /media.md %})
 - [Player]({% link player.md %})
 - [Work with us]({% link hiring.md %})
