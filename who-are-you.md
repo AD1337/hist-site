@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Media
-permalink: /media/
+title: Who are you?
+permalink: /who-are-you/
 ---
 
 # Welcome.

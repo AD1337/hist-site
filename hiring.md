@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work With Us
+title: Work with us
 permalink: /hiring/
 ---
 
