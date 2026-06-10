@@ -10,7 +10,6 @@ layout: home
 # titles_from_headings:
 #   enabled: false
 ---
-<img src="{{ "/assets/images/art.jpg" | relative_url }}" alt="" style="width: 100%; display: block; padding-top: 30px; border-bottom: 1px solid #424242; margin-bottom: 20px;">
 
 # We are Hist
 
