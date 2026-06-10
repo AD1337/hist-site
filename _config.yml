@@ -46,6 +46,10 @@ minima:
     icon: x
     url: "https://discord.gg/yourserver"
 
+  - title: Bluesky
+    icon: bluesky
+    url: "https://discord.gg/yourserver"
+
   - title: YouTube
     icon: youtube
     url: "https://discord.gg/yourserver"
