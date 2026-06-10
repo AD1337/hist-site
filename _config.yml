@@ -42,12 +42,12 @@ minima:
     icon: facebook
     url: "https://discord.gg/yourserver"
   
-  - title: Twitter
-    icon: twitter
+  - title: X
+    icon: x
     url: "https://discord.gg/yourserver"
 
   - title: YouTube
-    icon: youtbe
+    icon: youtube
     url: "https://discord.gg/yourserver"
   
   - title: Reddit
