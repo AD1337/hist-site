@@ -25,7 +25,13 @@ Our mission is to make deep strategy games for people who love history.
 
 **Generous DLC policy**. Look, we haven't even released a Hist game yet, much less DLC (*downloadable content*), so we don't know if we will ever release DLC. But if we do, we don't want you to feel like you *need* DLC in order to have a complete experience. Newcomers shouldn't get a *skeleton* of a game. So the vast majority of features and content will come with free updates, and buying DLC will be an *optional* way to support the devs. You should get DLC because you want to support future development and show your appreciation, not because of a paywall that blocks you out of mechanics and content.
 
-**We want to make the first grand strategy game with Overwhelmingly Positive reviews on Steam**. Well, depending on what you consider a GSG, this has already been done. Regardless, that is our goal. We don't know if we'll make it with our first game, but we'll try our best! The requirements are: at least 500 reviews and a 95%+ positive rating. So, if you want to help us reach this goal, do leave a positive review once the game is out! We'll do our best to earn your positive review by making a great game.
+## **We want to make the first grand strategy game with Overwhelmingly Positive reviews on Steam**
+ Well, depending on what you consider a GSG, this has already been done. Regardless, that is our goal. We don't know if we'll make it with our first game, but we'll try our best! The requirements are: at least 500 reviews and a 95%+ positive rating. So, if you want to help us reach this goal, do leave a positive review once the game is out! We'll do our best to earn your positive review by making a great game.
+
+## We are creating an archive
+We want to preserve our games and their development process for future generations. As lovers of history, we understand the importance of primary sources for historians. Our aim is to create the most complete and interesting digital archive that a games company has ever created. We are looking for partners to preserve this for centuries to come. [Reach out if you're an archivist]({{ "/who-are-you/#archivist" | relative_url }}).
+
+
 
 <hr>
 
@@ -72,7 +78,9 @@ I'm not in a hurry to expand the team, and it might never happen. Our mission an
 
 ## How about you?
 Let's get to know each other! Depending on who you are, we have more information for you:
-- [Investors & Publishers]({% link investor.md %})
-- [Media]({{ "/who-are-you/#media" | relative_url }})
-- [Player]({% link player.md %})
-- [Work with us]({% link hiring.md %})
+- [Investors & Publishers]({{ "/who-are-you/#investor" | relative_url }})
+- [Press]({{ "/who-are-you/#press" | relative_url }})
+- [Influencer]({{ "/who-are-you/#influencer" | relative_url }})
+- [Player]({{ "/who-are-you/#player" | relative_url }})
+- [Archivist]({{ "/who-are-you/#archivist" | relative_url }})
+- [Work with us]({{ "/who-are-you/#hiring" | relative_url }})
