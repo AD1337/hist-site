@@ -23,7 +23,7 @@ Our mission is to make deep strategy games for people who love history.
 
 **We empower you to tell your own story**.
 
-**Generous DLC policy**. Look, we haven't even released a Hist game yet, much less DLC (*downloadable content*), so we don't know if we will ever release DLC. But if we do, we don't want you to feel like you *need* DLC in order to have a complete experience. Newcomers shouldn't get a *skeleton* of a game. So the vast majority of features and content will come with free updates, and buying DLC will be an optional way to support the devs and show your appreciation.
+**Generous DLC policy**. Look, we haven't even released a Hist game yet, much less DLC (*downloadable content*), so we don't know if we will ever release DLC. But if we do, we don't want you to feel like you *need* DLC in order to have a complete experience. Newcomers shouldn't get a *skeleton* of a game. So the vast majority of features and content will come with free updates, and buying DLC will be an *optional* way to support the devs. You should get DLC because you want to support future development and show your appreciation, not because of a paywall that blocks you out of mechanics and content.
 
 <hr>
 
