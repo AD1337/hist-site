@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Player
-permalink: /player/
+# permalink: /player/
 ---
 
 # Welcome.
