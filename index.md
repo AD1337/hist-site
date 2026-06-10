@@ -16,7 +16,7 @@ layout: home
 Our mission is to make deep strategy games for people who love history.
 
 
-## Our Values
+## Core Values
 
 ### 1. Player experience is our first, second, and third priority.
 
@@ -38,6 +38,11 @@ Our mission is to make deep strategy games for people who love history.
 
    We have our own "ppace". PPACE stands for: Playfulness, Passion, Aptitude, Courage and Empathy. These are the qualities we look to cultivate within ourselves.
 
+## More Values
+- Culture (Full Document)
+- Game Design Principles
+- Production Guidelines
+- Personnel Characteristics
 
 ## Who are you?
 - [Investors & Publishers]({% link investor.md %})
