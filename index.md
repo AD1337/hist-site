@@ -15,6 +15,10 @@ layout: home
 
 Some intro text here. This appears above the post list on the home page.
 
-- [Investors]({% link investors.md %})
+
+## Who are you?
+These pages might be relevant to you, depending on who you are:
+- [Investor]({% link investors.md %})
 - [Media]({% link media.md %})
+- [Player]({% link media.md %})
 - [Work with us]({% link hiring.md %})
