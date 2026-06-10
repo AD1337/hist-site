@@ -68,7 +68,7 @@ Still, I'm always happy to meet like-minded people. If you believe you have [wha
 
 <hr>
 
-## Who are you?
+## What about you?
 Let's get to know each other! Depending on who you are, we have more information for you:
 - [Investors & Publishers]({% link investor.md %})
 - [Media]({{ "/who-are-you/#media" | relative_url }})
