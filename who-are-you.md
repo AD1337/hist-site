@@ -38,7 +38,7 @@ permalink: /who-are-you/
 <hr>
 
 # Archivist
- Wow! An archivist! Please contact me directly: [lucas@hist.games](mailto:lucas@hist.games)
+ Wow! An archivist! If you haven't read the [Manifesto](https://hist.games/#manifesto), we're creating a digital archive that will hopefully last centuries. For that, we need the help of archivists. Please contact me directly: [lucas@hist.games](mailto:lucas@hist.games)
 
 
 <hr>
