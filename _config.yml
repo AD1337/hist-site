@@ -60,9 +60,9 @@ minima:
     icon: reddit
     url: "https://discord.gg/yourserver"
 
-  - title: Substack
-    icon: envelope
-    url: "https://discord.gg/yourserver"
+  # - title: Substack
+  #   icon: envelope
+  #   url: "https://discord.gg/yourserver"
   
 
 # If you want to link only specific pages in your header, uncomment

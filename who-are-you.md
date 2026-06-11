@@ -42,7 +42,7 @@ permalink: /who-are-you/
 <hr>
 
 # Fellow Studio
- I'm happy to talk to fellow studios. You can [email me](mailto:lucas@hist.games) or find me at [our Discord](https://discord.gg/xtPa3hE). I have a tiny podcast where I talk to other devs and it might be nice to interview you for it!
+ I'm happy to talk to fellow studios. You can [email me](mailto:lucas@hist.games) or find me at [our Discord](https://discord.gg/xtPa3hE). I have a [tiny podcast](https://www.youtube.com/@lucasgmolina/podcasts) where I talk to other devs and it might be nice to interview you for it!
 
 <hr>
 
