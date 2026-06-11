@@ -45,6 +45,8 @@ We want to preserve our games and their development process for future generatio
 I'm happy to meet like-minded people. If you believe you have [what it takes]({{ "/hiring/" | relative_url }}), please do get in touch with me.
 
 I'm not in a hurry to expand the team, and it might never happen. Our mission and values are far more important than studio size and sales numbers. Sure, we want to serve our players to the best of our ability, but we will not sacrifice our mission or our values to do so.
+
+I use "we" here when speaking for Hist as a company, but it's just me.
 <hr>
 
 # Core Values
