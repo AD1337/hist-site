@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: More about us
 permalink: /about/
 ---
-
-Welcome.
 
 # What it takes
 ## You’re an outlier
@@ -59,12 +57,7 @@ You believe that our mission is both important and possible.
 
 You take joy in being this way. You believe that zest is a crucial ingredient to making something great and living a good life.
 
-### Other
+### If you have what it takes
 
-You can find our game at:
-[Historia Realis: Rome][hr-rome] /
-
-Other links:
-[My personal website](https://lucasmolinagames.com/)
-
-[hr-rome]: https://historiarealis.com/
+Contact me at [lucas@hist.games](mailto:lucas@hist.games).
+You can also find me at [our Discord](https://discord.gg/xtPa3hE).
