@@ -6,6 +6,9 @@ permalink: /about/
 
 Welcome.
 
+# What it takes
+
+
 You can find our game at:
 [Historia Realis: Rome][hr-rome] /
 
