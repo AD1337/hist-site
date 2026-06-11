@@ -90,7 +90,7 @@ You don’t blame others, ever, for any reason. You take responsibility for what
 
 ## You communicate clearly
 
-You don’t waste people’s time. You write simply and clearly. You get your idea cross and stop talking.
+You don’t waste people’s time. You write simply and clearly. You get your idea across and that's it.
 
 ## You give and take feedback
 
