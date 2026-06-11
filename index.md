@@ -11,9 +11,10 @@ layout: home
 #   enabled: false
 ---
 
-# We are Hist
+[Manifesto](#manifesto) · [The Team](#the-team) · [Core Values](#core-values) · [Contact us](#contact)
 
-Our mission is to make deep strategy games for people who love history.
+# We are Hist
+ Our mission is to make deep strategy games for people who love history.
 <hr>
 
 # Manifesto
@@ -91,3 +92,5 @@ Let's get to know each other! Depending on who you are, we have more information
 - [Archivist]({{ "/who-are-you/#archivist" | relative_url }})
 - [Fellow studio]({{ "/who-are-you/#fellow-studio" | relative_url }})
 - [Work with us]({{ "/who-are-you/#work-with-us" | relative_url }})
+
+<a name="contact"></a>
