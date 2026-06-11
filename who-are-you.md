@@ -13,6 +13,8 @@ permalink: /who-are-you/
 - [Work with us]({{ "/who-are-you/#work-with-us" | relative_url }})
 - [Other partnerships]({{ "/who-are-you/#other-partnerships" | relative_url }})
 
+<hr>
+
 # Investors and publishers
  Happy to talk to you. Please email me at [lucas@hist.games](mailto:lucas@hist.games).
 

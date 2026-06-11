@@ -15,6 +15,8 @@ layout: home
 
 ### [Manifesto](#manifesto) · [The Team](#the-team) · [Core Values](#core-values) · [Contact us](#contact)
 
+<hr>
+
 </div>
 
 # We are Hist
