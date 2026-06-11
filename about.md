@@ -59,5 +59,5 @@ You take joy in being this way. You believe that zest is a crucial ingredient to
 
 #### If you have what it takes...
 
-Contact me at [lucas@hist.games](mailto:lucas@hist.games).
+I'd love to meet you. Contact me at [lucas@hist.games](mailto:lucas@hist.games).
 You can also find me at [our Discord](https://discord.gg/xtPa3hE).
