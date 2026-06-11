@@ -11,7 +11,7 @@ layout: home
 #   enabled: false
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center;" markdown="1">
 
 ### [Manifesto](#manifesto) · [The Team](#the-team) · [Core Values](#core-values) · [Contact us](#contact)
 
