@@ -24,9 +24,9 @@ permalink: /who-are-you/
 <hr>
 
 # Content creator
- You're a crucial part of the ecosystem, friend. We want to learn more about how to build great partnerships with content creators. There is currently no program in place, but if you'd like to help us build one, please reach out.
+ You're a crucial part of the ecosystem, friend. We want to learn more about how to build great partnerships with content creators. There is currently no program in place, but if you'd like to help us build one, please reach out. Send me an email at [lucas@hist.games](mailto:lucas@hist.games).
 
- If you just want to stay up to date with news and releases, [join our Discord](https://discord.gg/xtPa3hE) or [sign up for our mailing list](https://historiarealis.substack.com/).
+ If you just want to stay up to date with our news, [join our Discord](https://discord.gg/xtPa3hE) or [sign up for our mailing list](https://historiarealis.substack.com/).
 
 <hr>
 
