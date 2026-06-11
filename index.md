@@ -11,7 +11,11 @@ layout: home
 #   enabled: false
 ---
 
-[Manifesto](#manifesto) · [The Team](#the-team) · [Core Values](#core-values) · [Contact us](#contact)
+<div style="text-align: center;">
+
+### [Manifesto](#manifesto) · [The Team](#the-team) · [Core Values](#core-values) · [Contact us](#contact)
+
+</div>
 
 # We are Hist
  Our mission is to make deep strategy games for people who love history.
