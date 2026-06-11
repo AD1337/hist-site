@@ -86,7 +86,8 @@ I use "we" here when speaking for Hist as a company, but it's just me.
 Let's get to know each other! Depending on who you are, we have more information for you:
 - [Investors & Publishers]({{ "/who-are-you/#investor" | relative_url }})
 - [Press]({{ "/who-are-you/#press" | relative_url }})
-- [Content Creator]({{ "/who-are-you/#influencer" | relative_url }})
+- [Content creator]({{ "/who-are-you/#creator" | relative_url }})
 - [Player]({{ "/who-are-you/#player" | relative_url }})
 - [Archivist]({{ "/who-are-you/#archivist" | relative_url }})
+- [Fellow studio]({{ "/who-are-you/#studio" | relative_url }})
 - [Work with us]({{ "/who-are-you/#hiring" | relative_url }})
