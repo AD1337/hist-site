@@ -19,7 +19,7 @@ permalink: /who-are-you/
 <hr>
 
 # Press
- We appreciate you. Times are changing and so on, but games press helped me a lot when I started as an indie dev around 2011 and I have great respect for you. You can contact me directly through the email [press@hist.games](mailto:press@hist.games) and I'll make replying to you a priority.
+ We appreciate you. Times are changing and you've fallen out of favor, but games press helped me a lot when I started as an indie dev around 2011 and I have great respect for you. You can contact me directly through the email [press@hist.games](mailto:press@hist.games) and I'll make replying to you a priority.
 
 <hr>
 
