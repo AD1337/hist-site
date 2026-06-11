@@ -82,9 +82,9 @@ I use "we" here when speaking for Hist as a company, but it's just me :)
 <hr>
 
 ## More about us
-- Culture
-- Game Design Principles
-- Production Guidelines
+- [Company culture]({{ "/about/#company-culture" | relative_url }})
+- [Game design principles]({{ "/about/#game-design-principles" | relative_url }})
+- [Production guidelines]({{ "/about/#production-guidelines" | relative_url }})
 - [What it takes]({{ "/about/#what-it-takes" | relative_url }})
 
 <hr>

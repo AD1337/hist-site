@@ -4,6 +4,25 @@ title: More about us
 permalink: /about/
 ---
 
+- [Company culture]({{ "/about/#company-culture" | relative_url }})
+- [Game design principles]({{ "/about/#game-design-principles" | relative_url }})
+- [Production guidelines]({{ "/about/#production-guidelines" | relative_url }})
+- [What it takes]({{ "/about/#what-it-takes" | relative_url }})
+
+<hr>
+
+# Company culture
+
+<hr>
+
+# Game design principles
+
+<hr>
+
+# Production guidelines
+
+<hr>
+
 # What it takes
 This is what we believe it takes to fulfill our mission. If you share these qualities, we'd love to hear from you.
 
