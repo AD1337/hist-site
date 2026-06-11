@@ -5,6 +5,8 @@ permalink: /about/
 ---
 
 # What it takes
+This is what we believe it takes to fulfill our mission.
+
 ## You’re an outlier
 
 You are statistically abnormal in the best way. You have honed your skills more than others. You look at things in unique ways. You are incredibly capable and believe in your capacity.
