@@ -57,7 +57,7 @@ You believe that our mission is both important and possible.
 
 You take joy in being this way. You believe that zest is a crucial ingredient to making something great and living a good life.
 
-### If you have what it takes
+#### If you have what it takes...
 
 Contact me at [lucas@hist.games](mailto:lucas@hist.games).
 You can also find me at [our Discord](https://discord.gg/xtPa3hE).
