@@ -13,7 +13,7 @@ You are statistically abnormal in the best way. You have honed your skills more 
 
 ## You care about people
 
-Genuinely. You want the best for your fellow human. You deeply respect people. You are not hateful towards anyone, and I mean it: anyone, no matter who they are or the circumstances. You have chosen to treat people with the utmost respect, whether they “deserve” it or not (and you’ve discovered that there is no such thing as “deserving” respect; everyone deserved respect).
+Genuinely. You want the best for your fellow human. You deeply respect people. You are not hateful towards anyone, and I mean it: anyone, no matter who they are or the circumstances. You have chosen to treat people with the utmost respect, whether they “deserve” it or not (and you’ve discovered that there is no such thing as “deserving” respect; everyone deserves respect).
 
 ## You care about games
 
