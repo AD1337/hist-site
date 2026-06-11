@@ -60,12 +60,12 @@ I use "we" here when speaking for Hist as a company, but it's just me :)
 
 ## **1. Player experience is our first, second, and third priority**
 
-   Paragraph attempt
+   We want to create great experiences for our players. Everything else exists to serve that purpose.
 
 
 ## **2. Open to the community**
 
-   Tab attempt
+   We develop with our players. Feedback, playtests, discussions, all of it. We do everything we can to be open to players and the community as a whole.
 
 
 ## **3. Great to each other**
@@ -74,7 +74,7 @@ I use "we" here when speaking for Hist as a company, but it's just me :)
 
 ## **4. Constant improvement**
 
-   We're always seeking feedback and trying to improve. 
+   We're always seeking feedback and trying to improve. We don't believe we're ever done learning.
 
 ## **5. Keep up the PPACE**
 
