@@ -45,7 +45,7 @@ We want to preserve our games and their development process for future generatio
 <hr>
 
 # The Team
-<img src="{{ "/assets/images/lucas.png" | relative_url }}" style="float: left; margin: 0 20px 20px 0; width: 200px;">
+<img src="{{ "/assets/images/lucas.png" | relative_url }}" style="float: left; margin: 0 20px 20px 0; width: 150px;">
 
 [Lucas Molina](https://lucasmolinagames.com/) is the founder of Hist and currently its only team member. That's me, so I'll switch to "I" because it's awkward to talk in third person. I'm an indie game developer and generalist with 15+ years of experience making games. I taught myself art, code, music and everything else related to game development. I studied history in university and also got a master's degree in history. I don't know why I love history and games so much, but I do. It's just who I am.
 
