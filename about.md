@@ -39,7 +39,7 @@ You seek feedback and give feedback to others generously.
 
 ## You put in the effort
 
-All this is not easy. So you dedicate your time to it.
+All this is not easy. So you dedicate your time and effort to it.
 
 ## You are courageous
 
