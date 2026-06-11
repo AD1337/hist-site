@@ -7,8 +7,10 @@ description: > # this means to ignore newlines until "twitter_username:"
 
 # url: "https://histgames.com"
 # baseurl: ""
-url: "https://ad1337.github.io"
-baseurl: "/hist-site"
+# url: "https://ad1337.github.io"
+# baseurl: "/hist-site"
+url: "https://hist.games"
+baseurl: ""
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

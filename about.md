@@ -17,9 +17,47 @@ permalink: /about/
 
 # Game design principles
 
+
+
+# Meta-Design
+
+## Consider the game as a whole
+
+Game design is not separate from the rest of the game. Game design affects UI, affects code, affects content, etc. The game is one thing. Therefore, when we design, we think of the whole game.
+
+## Customization
+
+You should be able to play the game your way. We offer many ways for you to customize your experience.
+
+## Moddability
+
+The extreme version of customization is moddability. We support modders who want to create great experiences for other players.
+
+## Shareability
+
+Players want to share their experiences, and also enjoy the experiences of others. We not only support them in this, but actively create opportunities for this to happen.
+
+## Community
+
+We involve the community as much as we can. We are particularly interested in feedback and go out of our way in order to get it.
+
 <hr>
 
 # Production guidelines
+
+## Sufficiency rather than excellence
+
+We believe excellence can be a trap. There are always diminishing returns past a certain point. Taking a thing from 95% good to 99% good is extremely time-consuming, and reaching perfection is impossible.
+
+95% is plenty good — it’s actually quite amazing! In some cases, 80% is good enough. We pick our battles and pursue sufficiency, not excellence. We make things as good as they need to be, then move on to the next priority. We don’t do this because we’re lazy, but because we believe that this efficient use of our time ultimately leads to better games.
+
+## Balanced Scoping
+
+Scoping is hard. We strive to balance ambition with reality; delivering a great experience while staying grounded, sane and healthy. We believe there is a balance point between overscoping (biting more than we can chew) and underscoping (not being ambitious enough). That’s the middle ground we try to find. We do this by looking at our team’s capabilities realistically and focusing on what really matters for our players.
+
+## Flexible Planning
+
+Priorities change all the time. Game development is highly iterative. We have to be adaptable and willing to change what we’re working on. We also have to be willing to delay releases if the quality is not there yet. A delayed but good release is better than an on-time but bad release.
 
 <hr>
 
