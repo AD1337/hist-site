@@ -45,11 +45,11 @@ We want to preserve our games and their development process for future generatio
 <hr>
 
 # The Team
-<img src="{{ "/assets/images/lucas.png" | relative_url }}" style="float: left; margin: 0 20px 20px 0; width: 140px;">
+<img src="{{ "/assets/images/lucas.png" | relative_url }}" style="float: left; margin: 0 20px 20px 0; width: 100px;">
 
 [Lucas Molina](https://lucasmolinagames.com/) is the founder of Hist and currently its only team member. That's me, so I'll switch to "I" because it's awkward to talk in third person. I'm an indie game developer and generalist with 15+ years of experience making games. I taught myself art, code, music and everything else related to game development. I studied history in university and also got a master's degree in history. I don't know why I love history and games so much, but I do. It's just who I am.
 
-I'm happy to meet like-minded people. If you believe you have [what it takes]({{ "/about/#what-it-takes" | relative_url }}), please do get in touch with me.
+I'm happy to meet like-minded people. If you believe you have [what it takes]({{ "/about/#what-it-takes" | relative_url }}), please do reach out to me.
 
 I'm not in a hurry to expand the team, and it might never happen. Our mission and values are far more important than studio size and sales numbers. Sure, we want to serve our players to the best of our ability, but we will not sacrifice our mission or our values to do so.
 
