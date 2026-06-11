@@ -83,7 +83,7 @@ I use "we" here when speaking for Hist as a company, but it's just me :)
 - Culture
 - Game Design Principles
 - Production Guidelines
-- Personnel Characteristics
+- [What it takes]({{ "/about/#what-it-takes" | relative_url }})
 
 <hr>
 
