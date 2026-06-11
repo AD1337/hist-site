@@ -26,10 +26,10 @@ layout: home
  Studios have traditionally believed that historical realism must be sacrificed in order to make fun games. We don't believe that. We believe, in fact, that making games more historically authentic also makes them more fun.
 
 ## We love systems
- Strategy, simulation and deep systems.
+ Our main genres are Strategy and Simulation. We love games with deep systems and high replayability. Some people call these "spreadsheet simulators", we call them "great fun".
 
 ## We empower you to tell your own story
- Paragraph.
+ Premade stories are not for us. We like to tell our own stories by interacting with the game's systems. As such, our games offer you tools to tell your own stories. The narrative emerges from the mechanics.
 
 ## Generous DLC policy
  Look, we haven't even released a Hist game yet, so we don't know if we will ever release DLC (*downloadable content*). But if we do, we don't want you to feel like you *need* DLC in order to have a complete experience. Newcomers shouldn't get a *skeleton* of a game. So the vast majority of features and content will come with free updates, and buying DLC will be an *optional* way to support the devs. You should get DLC because you want to support future development and show your appreciation, not because of a paywall that blocks you out of mechanics and content. Any DLC will be light on extra content, with the bulk of it coming as a free update for everyone.
@@ -78,7 +78,7 @@ I use "we" here when speaking for Hist as a company, but it's just me :)
 
 ## **5. Keep up the PPACE**
 
-   We have our own PPACE. The acronym stands for: Playfulness, Passion, Aptitude, Courage and Empathy. These are the qualities we look to cultivate within ourselves.
+   We have our own **PPACE**. The acronym stands for: Playfulness, Passion, Aptitude, Courage and Empathy. These are the qualities we look to cultivate within ourselves.
 <hr>
 
 ## More about us
