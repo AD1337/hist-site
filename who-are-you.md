@@ -25,6 +25,7 @@ permalink: /who-are-you/
 <hr>
 
 # Player
+ We appreciate you. Join [our Discord](https://discord.gg/xtPa3hE) to chat more! That's currently the best way for you to be a part of the community. 
 
 <hr>
 
