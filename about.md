@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # What it takes
-This is what we believe it takes to fulfill our mission.
+This is what we believe it takes to fulfill our mission. If you share these qualities, we'd love to hear from you.
 
 ## You’re an outlier
 
