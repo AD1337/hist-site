@@ -38,7 +38,7 @@ layout: home
  We want to make the first grand strategy game with Overwhelmingly Positive reviews on Steam. Well, depending on what you consider a GSG, this has already been done. Regardless, that is our goal. We don't know if we'll make it with our first game, but we'll try our best! The requirements are: at least 500 reviews and a 95%+ positive rating. So, if you want to help us reach this goal, do leave a positive review once the game is out! We'll do our best to earn your positive review by making a great game.
 
 ## We are creating an archive
-We want to preserve our games and their development process for future generations. As lovers of history, we understand the importance of primary sources for historians. Our aim is to create the most complete and interesting digital archive that a games company has ever created for its material. We are looking for partners to help us preserve this for centuries to come. [Reach out if you're an archivist]({{ "/who-are-you/#archivist" | relative_url }}) or believe in this mission.
+We want to preserve our games and their development process for future generations. As lovers of history, we understand the importance of primary sources for historians. Our aim is to create the most complete and interesting digital archive that a games company has ever created for its material. It includes images, diaries, videos and much more. We are looking for partners to help us preserve this for centuries to come. [Reach out if you're an archivist]({{ "/who-are-you/#archivist" | relative_url }}) or believe in this mission.
 
 
 
@@ -51,7 +51,7 @@ I'm happy to meet like-minded people. If you believe you have [what it takes]({{
 
 I'm not in a hurry to expand the team, and it might never happen. Our mission and values are far more important than studio size and sales numbers. Sure, we want to serve our players to the best of our ability, but we will not sacrifice our mission or our values to do so.
 
-I use "we" here when speaking for Hist as a company, but it's just me. :)
+I use "we" here when speaking for Hist as a company, but it's just me :)
 <hr>
 
 # Core Values
