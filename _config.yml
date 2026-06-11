@@ -28,39 +28,39 @@ minima:
   
   - title: Discord
     icon: discord
-    url: "https://discord.gg/yourserver"
+    url: "https://discord.gg/xtPa3hE"
   
   - title: Steam
     icon: steam
-    url: "https://discord.gg/yourserver"
+    url: "https://store.steampowered.com/developer/lucasmolina"
   
   - title: Instagram
     icon: instagram
-    url: "https://twitch.tv/lucasgmolina"
+    url: "https://instagram.com/historiarealis/"
   
   - title: Tiktok
     icon: tiktok
-    url: "https://discord.gg/yourserver"
+    url: "https://tiktok.com/@lucasgmolina/"
   
   - title: Facebook
     icon: facebook
-    url: "https://discord.gg/yourserver"
+    url: "https://facebook.com/historiarealis"
   
   - title: X
     icon: x
-    url: "https://discord.gg/yourserver"
+    url: "https://x.com/ad1337"
 
   - title: Bluesky
     icon: bluesky
-    url: "https://discord.gg/yourserver"
+    url: "https://bsky.app/profile/lucasgmolina.bsky.social"
 
   - title: YouTube
     icon: youtube
-    url: "https://discord.gg/yourserver"
+    url: "https://youtube.com/@lucasgmolina"
   
   - title: Reddit
     icon: reddit
-    url: "https://discord.gg/yourserver"
+    url: "https://reddit.com/r/historiarealis/"
 
   # - title: Substack
   #   icon: envelope
