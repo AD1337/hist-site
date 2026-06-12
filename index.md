@@ -24,16 +24,6 @@ layout: home
 <hr>
 
 
-# Our upcoming game
-
-<a href="store.steampowered.com/app/2560540/Historia_Realis_Rome/" target="_blank">
-<img src="{{ "/assets/images/historia_realis_rome.png" | relative_url }}">
-</a>
-
-Be a Roman in this grand strategy game with deep historical realism. Serve in the legions, run for political office, get married and educate your heirs. Make friends, outwit rivals and seduce lovers as thousands of other characters live out their own tragedies and triumphs! 
-
-<hr>
-
 # Manifesto
 ## Games can be both fun and historically accurate
  Studios have traditionally believed that historical realism must be sacrificed in order to make fun games. We don't believe that. We believe, in fact, that making games more historically authentic also makes them more fun.
@@ -54,7 +44,6 @@ Be a Roman in this grand strategy game with deep historical realism. Serve in th
 We want to preserve our games and their development process for future generations. As lovers of history, we understand the importance of primary sources for historians. Our aim is to create the most complete and interesting digital archive that a games company has ever created for its material. It includes images, diaries, videos and much more. We are looking for partners to help us preserve this for centuries to come. [Reach out if you're an archivist]({{ "/who-are-you/#archivist" | relative_url }}) or believe in this mission.
 
 
-
 <hr>
 
 # The Team
@@ -67,6 +56,16 @@ I'm happy to meet like-minded people. If you believe you have [what it takes]({{
 I'm not in a hurry to expand the team, and it might never happen. Our mission and values are far more important than studio size and sales numbers. Sure, we want to serve our players to the best of our ability, but we will not sacrifice our mission or our values to do so.
 
 I use "we" here when speaking for Hist as a company, but it's just me :)
+<hr>
+
+# Our upcoming game
+
+<a href="store.steampowered.com/app/2560540/Historia_Realis_Rome/" target="_blank">
+<img src="{{ "/assets/images/historia_realis_rome.png" | relative_url }}">
+</a>
+
+Be a Roman in this grand strategy game with deep historical realism. Serve in the legions, run for political office, get married and educate your heirs. Make friends, outwit rivals and seduce lovers as thousands of other characters live out their own tragedies and triumphs! 
+
 <hr>
 
 # Core Values
