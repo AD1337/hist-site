@@ -26,7 +26,9 @@ layout: home
 
 # Our upcoming game
 
+<a href="store.steampowered.com/app/2560540/Historia_Realis_Rome/" target="_blank">
 <img src="{{ "/assets/images/historia_realis_rome.png" | relative_url }}">
+</a>
 
 Be a Roman in this grand strategy game with deep historical realism. Serve in the legions, run for political office, get married and educate your heirs. Make friends, outwit rivals and seduce lovers as thousands of other characters live out their own tragedies and triumphs! 
 
