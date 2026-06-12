@@ -112,11 +112,13 @@ Let's get to know each other! Depending on who you are, we have more information
 
 <hr>
 
-# Join our Discord!
+
 <a href="https://discord.gg/xtPa3hE" target="_blank">
   <img src="{{ "/assets/images/discord.png" | relative_url }}" style="float: left; margin: 0 20px 0 0; width: 140px;">
 </a>
 
-[Join our Discord](https://discord.gg/xtPa3hE)! This is the best way to stay in touch and be a part of the community.
+# Join our Discord!
+
+This is the best way to stay in touch and be a part of the community. [Join our Discord](https://discord.gg/xtPa3hE)! 
 
 <a name="contact"></a>
