@@ -23,6 +23,15 @@ layout: home
  Our mission is to make deep strategy games for people who love history.
 <hr>
 
+
+# Our upcoming game
+
+<img src="{{ "/assets/images/historia_realis_rome.png" | relative_url }}">
+
+Be a Roman in this grand strategy game with deep historical realism. Serve in the legions, run for political office, get married and educate your heirs. Make friends, outwit rivals and seduce lovers as thousands of other characters live out their own tragedies and triumphs! 
+
+<hr>
+
 # Manifesto
 ## Games can be both fun and historically accurate
  Studios have traditionally believed that historical realism must be sacrificed in order to make fun games. We don't believe that. We believe, in fact, that making games more historically authentic also makes them more fun.
@@ -100,5 +109,12 @@ Let's get to know each other! Depending on who you are, we have more information
 - [Archivist]({{ "/who-are-you/#archivist" | relative_url }})
 - [Fellow studio]({{ "/who-are-you/#fellow-studio" | relative_url }})
 - [Work with us]({{ "/who-are-you/#work-with-us" | relative_url }})
+
+<hr>
+
+# Join our Discord!
+<img src="{{ "/assets/images/discord.png" | relative_url }}" style="float: left; margin: 0 20px 0 0; width: 140px;">
+
+[Join our Discord]((https://discord.gg/xtPa3hE))! This is the best way to stay in touch and be a part of the community.
 
 <a name="contact"></a>
