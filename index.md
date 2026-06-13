@@ -64,6 +64,8 @@ I use "we" here when speaking for Hist as a company, but it's just me :)
 <img src="{{ "/assets/images/historia_realis_rome.png" | relative_url }}">
 </a>
 A grand strategy game where you play as a Roman. Become a Senator, a lawyer, fight in the legions or live your life however you want.
+
+[Wishlist on Steam!](https://store.steampowered.com/app/2560540/Historia_Realis_Rome/)
 <hr>
 
 # Core Values
@@ -120,6 +122,6 @@ Let's get to know each other! Depending on who you are, we have more information
 
 This is the best way to stay in touch and be a part of the community.
 
-[Join our Discord](https://discord.gg/xtPa3hE)! 
+[Join our Discord!](https://discord.gg/xtPa3hE)
 
 <a name="contact"></a>
