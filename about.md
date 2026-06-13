@@ -4,20 +4,66 @@ title: More about us
 permalink: /about/
 ---
 
-- [Company culture]({{ "/about/#company-culture" | relative_url }})
+<!-- - [Company culture]({{ "/about/#company-culture" | relative_url }}) -->
 - [Game design principles]({{ "/about/#game-design-principles" | relative_url }})
 - [Production guidelines]({{ "/about/#production-guidelines" | relative_url }})
 - [What it takes]({{ "/about/#what-it-takes" | relative_url }})
 
 <hr>
 
-# Company culture
+<!-- # Company culture -->
 
-<hr>
+<!-- <hr> -->
 
 # Game design principles
 
+## Is this fun?
 
+Consistently ask yourself: is this mechanic fun? Is it annoying to deal with? Is it boring? Evaluate.
+
+## Elegance
+
+The design should be elegant and minimal. This ensures that the game doesn’t get bloated with unnecessary mechanics.
+
+Another advantage of elegance is understandability. Players are able to keep a mental model of the game.
+
+Yet another is ease of learning. The challenge shouldn’t come from struggling to learn the game, but from interacting with it once you’ve learned it.
+
+## Interconnectedness
+
+Mechanics should feed into each other, not be isolated.
+
+## Layering
+
+The best way to make choices more interesting is to add layers to them. Rather than offering 1000 choices to select from, it’s better to offer 2-3 choices that have impact on various mechanics. This both limits analysis paralysis and makes choices more meaningful.
+
+## Depth
+
+Depth is not complexity. We believe that depth comes from the interplay of the principles above: elegance, interconnectedness and layering.
+
+## Let the player choose
+
+Don’t tell the player what happens, ask them. For example, rather than killing their character, let the player choose. Do they want their character to die? Then they can choose that. Or they can also choose something else that also makes sense.
+
+Of course, these choices should be bounded by rules. If something very bad should happen, then offer very bad choices. But, as much as possible, put the consequences in the hands of the player, let them pick.
+
+It’s their game, their playthrough, their story. Let them choose!
+
+## Get out of the player’s way
+
+The player wants to have an experience. Let them have it. Be invisible, if you can.
+
+## Simulation
+
+We design living worlds.
+
+## Emergence
+
+We create systems where stories emerge from interaction with the mechanics.
+
+## Expression
+
+We design for multiple play styles. You get to express yourself through play.
 
 # Meta-Design
 

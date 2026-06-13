@@ -63,9 +63,7 @@ I use "we" here when speaking for Hist as a company, but it's just me :)
 <a href="store.steampowered.com/app/2560540/Historia_Realis_Rome/" target="_blank">
 <img src="{{ "/assets/images/historia_realis_rome.png" | relative_url }}">
 </a>
-
-Be a Roman in this grand strategy game with deep historical realism. Serve in the legions, run for political office, get married and educate your heirs. Make friends, outwit rivals and seduce lovers as thousands of other characters live out their own tragedies and triumphs! 
-
+A grand strategy game where you play as a Roman. Become a Senator, a lawyer, fight in the legions or live your life however you want.
 <hr>
 
 # Core Values
@@ -94,7 +92,7 @@ Be a Roman in this grand strategy game with deep historical realism. Serve in th
 <hr>
 
 ## More about us
-- [Company culture]({{ "/about/#company-culture" | relative_url }})
+<!-- - [Company culture]({{ "/about/#company-culture" | relative_url }}) -->
 - [Game design principles]({{ "/about/#game-design-principles" | relative_url }})
 - [Production guidelines]({{ "/about/#production-guidelines" | relative_url }})
 - [What it takes]({{ "/about/#what-it-takes" | relative_url }})
