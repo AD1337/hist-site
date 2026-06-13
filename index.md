@@ -60,7 +60,7 @@ I use "we" here when speaking for Hist as a company, but it's just me :)
 
 # Our upcoming game
 
-<a href="store.steampowered.com/app/2560540/Historia_Realis_Rome/" target="_blank">
+<a href="https://store.steampowered.com/app/2560540/Historia_Realis_Rome/" target="_blank">
 <img src="{{ "/assets/images/historia_realis_rome.png" | relative_url }}">
 </a>
 A grand strategy game where you play as a Roman. Become a Senator, a lawyer, fight in the legions or live your life however you want.
