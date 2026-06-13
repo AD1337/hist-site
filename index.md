@@ -65,7 +65,7 @@ I use "we" here when speaking for Hist as a company, but it's just me :)
 </a>
 A grand strategy game where you play as a Roman. Become a Senator, a lawyer, fight in the legions or live your life however you want.
 
-[Wishlist on Steam!](https://store.steampowered.com/app/2560540/Historia_Realis_Rome/)
+[Wishlist Historia Realis: Rome on Steam!](https://store.steampowered.com/app/2560540/Historia_Realis_Rome/)
 <hr>
 
 # Core Values
