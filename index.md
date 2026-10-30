@@ -88,9 +88,6 @@ A grand strategy game where you play as a Roman. Become a Senator, a lawyer, fig
 
    We're always seeking feedback and trying to improve. We don't believe we're ever done learning.
 
-## **5. It HISTS!**
-
-   The acronym **HISTS** stands for: Happiness, Intensity, Skill, Tenacity and Soul. These are the qualities we look to cultivate within ourselves.
 <hr>
 
 ## More about us

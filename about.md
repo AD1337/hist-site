@@ -4,16 +4,21 @@ title: More about us
 permalink: /about/
 ---
 
-<!-- - [Company culture]({{ "/about/#company-culture" | relative_url }}) -->
+
+- [Company culture]({{ "/about/#company-culture" | relative_url }})
 - [Game design principles]({{ "/about/#game-design-principles" | relative_url }})
 - [Production guidelines]({{ "/about/#production-guidelines" | relative_url }})
 - [What it takes]({{ "/about/#what-it-takes" | relative_url }})
 
 <hr>
 
-<!-- # Company culture -->
+# Company culture
 
-<!-- <hr> -->
+## It HISTS!**
+
+   The acronym **HISTS** stands for: Happiness, Intensity, Skill, Tenacity and Soul. These are the qualities we look to cultivate within ourselves.
+
+<hr>
 
 # Game design principles
 
