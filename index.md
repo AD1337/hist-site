@@ -20,7 +20,7 @@ layout: home
 </div>
 
 # We are Hist
- We make deep strategy games, with a focus on roleplay, for people who love history.
+ We make deep systemic games, with a focus on roleplay, for people who love history.
 <hr>
 
 
