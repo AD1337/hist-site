@@ -20,7 +20,7 @@ layout: home
 </div>
 
 # We are Hist
- We make games with deep systems and a focus on roleplay for people who love history.
+ We make games with **deep systems** and a **focus on roleplay** for people who **love history**.
 <hr>
 
 
